@@ -1,16 +1,18 @@
-## Hi there 👋
+![augmented-reality development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwcThjOHAwZ3V5cG0wZ3h2NWNhemZpdmlkNHk3ODd6eGZ2aXhubGE4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8AjntsKCAY4Iu3nqJz/giphy.gif)
 
-<!--
-**helpbringer6-ui/helpbringer6-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Einführung
+Willkommen auf meinem GitHub-Profil! Ich bin ein Softwareentwickler mit einer Leidenschaft für UI/UX-Design und die Entwicklung intuitiver Benutzeroberflächen.
 
-Here are some ideas to get you started:
+# Fähigkeiten
+- Frontend-Entwicklung: HTML, CSS, JavaScript
+- UI/UX-Design: Prototyping, Benutzerforschung
+- Frameworks: React, Angular
+- Tools: Figma, Adobe XD, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projekte
+- **Projekt A**: Eine innovative Webanwendung für die Verwaltung von Aufgaben.
+- **Projekt B**: Ein benutzerfreundliches Dashboard für Datenanalysen.
+
+# Kontakte
+- E-Mail: helpbringer6@example.com
+- LinkedIn: [linkedin.com/in/helpbringer6](https://linkedin.com/in/helpbringer6)
